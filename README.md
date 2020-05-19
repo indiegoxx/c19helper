@@ -1,4 +1,4 @@
-# covid19helper
+# C19Helper
 
 Flutter COVID 19 Tracker App
 
