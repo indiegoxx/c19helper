@@ -1,6 +1,6 @@
-# covid19stat
+# covid19helper
 
-will make this project opensource once we make it stable
+Flutter COVID 19 Tracker App
 
 ## API
 
@@ -15,4 +15,3 @@ https://covid19india.org
 | Raw data                                              | https://api.covid19india.org/raw_data.json            |
 | States Daily changes                                  | https://api.covid19india.org/states_daily.json        |
 
-GO KARUNA, KARUNA GO
