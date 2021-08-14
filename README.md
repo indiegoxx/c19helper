@@ -1,4 +1,4 @@
-# C19Helper
+# C19Helper(no longer supported)
 
 Flutter COVID 19 Tracker App
 
